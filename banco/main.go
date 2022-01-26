@@ -1,7 +1,7 @@
 package main
 
 import (
-	"banco/contas"
+	"Go_training/banco/contas"
 	"fmt"
 )
 

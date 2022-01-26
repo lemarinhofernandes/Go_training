@@ -1,6 +1,6 @@
 package contas
 
-import "banco/clientes"
+import "Go_training/banco/clientes"
 
 type ContaPoupanca struct {
 	Titular                              clientes.Titular

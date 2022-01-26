@@ -1,7 +1,7 @@
 package contas
 
 import (
-	"banco/clientes"
+	"Go_training/banco/clientes"
 )
 
 type ContaCorrente struct {
